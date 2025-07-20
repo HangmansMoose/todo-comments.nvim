@@ -1,3 +1,7 @@
+**NOTE THIS IS A FORK OF A FORK. Original repo by the fantastic folke. Did what everybody does and got angry at regex, so I borrowed this fork from a few years back from travisvroman**
+- Original Repo -> [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim)
+- Travis' fork -> [travisvroman/todo-comments.nvim](https://github.com/travisvroman/todo-comments.nvim)
+
 # ✅ Todo Comments
 
 **todo-comments** is a lua plugin for Neovim 0.5 to highlight and search for todo comments like
